@@ -1,4 +1,4 @@
-# Hi, I'm Om Yadav 👋
+# Hi, I'm Om Yadav 
 
 ## Aspiring Data Analyst & Software Developer
 
