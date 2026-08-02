@@ -53,6 +53,17 @@ Git | GitHub | Jupyter Notebook
 
 ## 🚀 Featured Projects
 
+### 🏥 RepoDoctor – GitHub Repository Quality Analyzer
+
+A full-stack application that analyzes GitHub repositories across 6 dimensions of code quality, commit hygiene, and documentation. It generates detailed PDF reports using parallel asynchronous processing.
+
+**Tech Stack:** Java 21, Spring Boot 3.5, React 18, OpenPDF, CompletableFuture
+
+🔗 Live Demo: https://repo-doctor-tau.vercel.app
+🔗 Repository: https://github.com/omyadav3131/Repo-doctor
+
+---
+
 ### 📊 Retail Sales Forecasting & Business Analytics
 
 An end-to-end retail analytics project combining Python, Machine Learning, and Power BI to analyze sales patterns and build regression models for sales prediction.
@@ -67,8 +78,9 @@ An end-to-end retail analytics project combining Python, Machine Learning, and P
 
 A Flask-based quiz platform featuring authentication, quizzes, leaderboards, an admin panel, and a two-player competition system.
 
-**Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap, Docker
+**Tech Stack:** Python, Flask, SQLAlchemy, PostgreSQL, Bootstrap, Render
 
+🔗 Live Demo: https://quizcraft-qt15.onrender.com
 🔗 Repository: https://github.com/omyadav3131/QuizCraft
 
 ---
