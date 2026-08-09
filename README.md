@@ -38,7 +38,7 @@ Core Java | OOP | Collections | Exception Handling
 Flask | SQLAlchemy | HTML | CSS | Bootstrap
 
 ### Databases
-SQL | SQLite | PostgreSQL
+SQL | SQLite | PostgreSQL | MySQL
 
 ### Data Visualization
 Power BI | Matplotlib
